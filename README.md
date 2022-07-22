@@ -1,0 +1,1 @@
+Ignora arquivos indesejados
