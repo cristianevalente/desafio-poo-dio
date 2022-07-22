@@ -52,8 +52,8 @@ public class Main {
         devBaethyr.progredir();
         devBaethyr.progredir();
 
-        System.out.println("Conteúdos Incritos" + devBaethyr.getConteudosInscritos());
-        System.out.println("Conteúdos Concluídos" + devBaethyr.getConteudosConluidos());
+        System.out.println("Conteúdos Incritos Baethyr" + devBaethyr.getConteudosInscritos());
+        System.out.println("Conteúdos Concluídos Baethyr" + devBaethyr.getConteudosConluidos());
         System.out.println("XP: " + devBaethyr.calcularXp());
 
     }
