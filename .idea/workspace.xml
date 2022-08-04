@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b5caef4-7203-4b7c-a1b7-18ab640d2085" name="Changes" comment="Mentoria e Curso">
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Main.java" afterDir="false" />
+    <list default="true" id="7b5caef4-7203-4b7c-a1b7-18ab640d2085" name="Changes" comment="Mais exercicios da DIO">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/ArrayMultidimensional_Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/Consoantes_Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/Fatorial_Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/Maior_Media_Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/Notas_Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/Numeros_Aleatorios_Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/Ordem_Inversa_Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/Par_Impar_Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/Primeiro_Programa_Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/Tabuada_Camila_Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/estudos/Tabuada_Estudos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,22 +42,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.desafio.dominio.Main" />
+}</component>
+  <component name="RunManager" selected="Application.br.com.dio.estudos.Ordem_Inversa_Estudos">
+    <configuration name="ArrayMultidimensional_Estudos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.estudos.ArrayMultidimensional_Estudos" />
       <module name="desafio-dio-POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.desafio.dominio.*" />
+          <option name="PATTERN" value="br.com.dio.estudos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,9 +65,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Consoantes_Estudos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.estudos.Consoantes_Estudos" />
+      <module name="desafio-dio-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.estudos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Numeros_Aleatorios_Estudos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.estudos.Numeros_Aleatorios_Estudos" />
+      <module name="desafio-dio-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.estudos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Primeiro_Programa_Estudos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.estudos.Primeiro_Programa_Estudos" />
+      <module name="desafio-dio-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.estudos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.dio.estudos.Ordem_Inversa_Estudos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.estudos.Ordem_Inversa_Estudos" />
+      <module name="desafio-dio-POO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.br.com.dio.estudos.Ordem_Inversa_Estudos" />
+        <item itemvalue="Application.Primeiro_Programa_Estudos" />
+        <item itemvalue="Application.ArrayMultidimensional_Estudos" />
+        <item itemvalue="Application.Numeros_Aleatorios_Estudos" />
+        <item itemvalue="Application.Consoantes_Estudos" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658525624598</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Mentoria e Curso">
+      <created>1658525771080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658525771080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +183,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="add README.md" />
     <MESSAGE value="Mentoria e Curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mentoria e Curso" />
+    <MESSAGE value="Mais exercicios da DIO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mais exercicios da DIO" />
   </component>
 </project>
